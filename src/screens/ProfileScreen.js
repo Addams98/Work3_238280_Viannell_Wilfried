@@ -10,11 +10,11 @@ const ProfileScreen = () => {
       </View>
       <View style={styles.profileInfo}>
         <Text style={styles.label}>Username:</Text>
-        <Text style={styles.value}>NDOBA Hakim</Text>
+        <Text style={styles.value}>Viannell Addams</Text>
       </View>
       <View style={styles.profileInfo}>
         <Text style={styles.label}>Email:</Text>
-        <Text style={styles.value}>ndobahakim5@gmail.com</Text>
+        <Text style={styles.value}>viannelladdams@gmail.com.com</Text>
       </View>
       {/* Add more profile information as needed */}
     </View>
